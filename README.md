@@ -10,3 +10,35 @@
 3. **seaborn**
 4. **plotly.express**
 
+## Objectives
+
+- Analyze the distribution of content types (movies vs TV shows).
+- Identify the most common ratings for movies and TV shows.
+- List and analyze content based on release years, countries, and durations.
+- Explore and categorize content based on specific criteria and keywords.
+
+## Dataset
+
+The data for this project is sourced from the Kaggle:
+
+- **Dataset Link:** [Movies Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download)
+
+## Dataset details 
+
+- Contains around 12 columns.
+  ```
+    1.show_id object  
+    2.type object  
+    3.title  object  
+    4.director object  
+    5.cast object  
+    6.country object  
+    7.date_added object  
+    8.release_year int64   
+    9.rating category
+    10.duration object    
+    11.listed_in object  
+    12.description object  
+  ```
+
+## This project is part of my portfolio, showcasing data manupilation and data visualization skills essential for data analyst roles using python libs.
